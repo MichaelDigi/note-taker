@@ -7,7 +7,7 @@
   - [Usage](#usage)
   - [License](#license)
   - [How to Contribute](#contributing)
-  - [Tests](#tests)
+  - [Tests](#deployed Application)
   - [Questions](#questions)
 
   ## Installation
@@ -29,8 +29,8 @@
   ## How to Contribute
   
 
-  ## Tests
-  
+  ## Deployed Application
+  https://uoftnotetaker.herokuapp.com/notes
 
   ## About Me/Contact Me
   GitHub Link: [GitHub](https://github.com/MichaelDigi)
