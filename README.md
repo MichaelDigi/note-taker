@@ -7,7 +7,7 @@
   - [Usage](#usage)
   - [License](#license)
   - [How to Contribute](#contributing)
-  - [Tests](#deployed Application)
+  - [Tests](#tests)
   - [Questions](#questions)
 
   ## Installation
